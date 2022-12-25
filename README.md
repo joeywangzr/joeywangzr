@@ -1,6 +1,8 @@
-### Hey, I'm Joey 👋
+### Hey, I'm [Joey Wang](https://joeywang.ca/) 👋
 
 I'm a Computer Engineering student at the University of Waterloo. 
+My interests include anime/manga, art, badminton, and piano! 
+
 <!--
 **joeywangzr/joeywangzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
