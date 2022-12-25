@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey, I'm Joey 👋
 
+I'm a Computer Engineering student at the University of Waterloo. 
 <!--
 **joeywangzr/joeywangzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
