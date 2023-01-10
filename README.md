@@ -6,7 +6,7 @@
 <p align="center"><img align="center" src="https://media.tenor.com/w5a0WVW1GbsAAAAd/nijika-bocchi-the-rock.gif"></p>
 </details>
   
-<p align="center">I consume a lot of <a href="https://anilist.co/user/Jopee/">Asian media...</a> My hobbies are eating tasty things, gaming, piano, badminton and art</p>
+<p align="center">My hobbies are eating tasty things, gaming, piano, badminton and art.</p>
 <!--
 **joeywangzr/joeywangzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
