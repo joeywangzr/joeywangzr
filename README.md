@@ -9,3 +9,12 @@
     <li>I made a <a href="https://www.youtube.com/watch?v=IeQGV67qcRM">YouTube video</a> with 200k views</li>
   </ul>
 </p>
+
+<h3>I'm currently working on:</h3>
+<p>
+  <ul>
+    <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, an open source server hosting tool for Minecraft</li>
+    <li>My computer engineering degree at UW</li>
+    <li><a href="https://www.youtube.com/watch?v=J2YRzOwIgio">Random other projects...</a></li>
+  </ul>
+</p>
