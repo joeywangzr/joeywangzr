@@ -14,7 +14,6 @@
 <p>
   <ul>
     <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, an open source server hosting tool for Minecraft</li>
-    <li>My computer engineering degree at UW</li>
     <li><a href="https://www.youtube.com/watch?v=J2YRzOwIgio">Random other projects...</a></li>
   </ul>
 </p>
