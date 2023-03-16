@@ -1,9 +1,9 @@
 <h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>! 👋</h2>
 <p>
   <ul>
-    <li>I'm a Computer Engineering student at the University of Waterloo</li>
-    <li>I am an incoming Data Engineer at the <a href="https://www.theglobeandmail.com/">Globe and Mail</a></li>
-    <li>I've previously worked as a Software Developer at the <a href="https://ford.com/">Ford Motor Company</a></li>
+    <li>I'm a Computer Engineering student at the <a href="https://www.reddit.com/r/uwaterloo/">University of Waterloo</a> 🦆</li>
+    <li>I am an incoming Data Engineer at the <a href="https://www.theglobeandmail.com/">Globe and Mail</a> 📰</li>
+    <li>I've previously worked as a Software Developer at the <a href="https://ford.com/">Ford Motor Company</a> 🚗</li>
   </ul>
 </p>
 
