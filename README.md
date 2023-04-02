@@ -21,6 +21,7 @@
 <p>
   <ul>
     <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, an open source server hosting tool for Minecraft</li>
+    <li>Watching weekly episodes of <a href="https://anilist.co/anime/128893/Hells-Paradise/">Jigokuraku: Hell's Paradise</a></li>
     <li>Catching up to <a href="https://anilist.co/manga/98263/Witch-Hat-Atelier/">Witch Hat Atelier</a></li>
     <li><a href="https://www.youtube.com/watch?v=J2YRzOwIgio">Random other projects...</a></li>
   </ul>
