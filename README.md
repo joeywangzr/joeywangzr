@@ -1,4 +1,4 @@
-<img align='right' width='400px' src='https://i.imgur.com/dBV1tY6.png'>
+<img align='right' width='350px' src='https://i.imgur.com/dBV1tY6.png'>
 
 <h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>!</h2>
 
