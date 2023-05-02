@@ -1,6 +1,6 @@
 <img align='right' width='400px' src='https://i.imgur.com/dBV1tY6.png'>
 
-<h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>! 👋</h2>
+<h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>!</h2>
 
 <p>
   <ul>
@@ -22,9 +22,14 @@
 <h3>I'm currently working on:</h3>
 <p>
   <ul>
-    <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, an open source server hosting tool for Minecraft</li>
-    <li>Watching weekly episodes of <a href="https://anilist.co/anime/128893/Hells-Paradise/">Jigokuraku: Hell's Paradise</a></li>
-    <li>Catching up to <a href="https://anilist.co/manga/98263/Witch-Hat-Atelier/">Witch Hat Atelier</a></li>
+    <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, a server hosting tool for Minecraft</li>
+    <li>Watching weekly episodes of <a href="https://anilist.co/anime/150672/Oshi-No-Ko/">Oshi no Ko</a></li>
+    <li>Waiting for <a href="https://anilist.co/manga/118586/Frieren-Beyond-Journeys-End/">Frieren</a> to go off hiatus :(</li>
     <li><a href="https://www.youtube.com/watch?v=J2YRzOwIgio">Random other projects...</a></li>
   </ul>
 </p>
+
+<details>
+  <summary>Image credits</summary>
+  Image by <a href="https://twitter.com/kerorira1">kerorira1</a>
+</details>
