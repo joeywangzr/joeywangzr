@@ -31,5 +31,5 @@
 
 <details>
   <summary>Image credits</summary>
-  Image by <a href="https://twitter.com/kerorira1">kerorira1</a>
+  <a href="https://twitter.com/kerorira1">kerorira1</a> on Twitter
 </details>
