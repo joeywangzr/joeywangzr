@@ -22,9 +22,9 @@
 <h3>I'm currently working on:</h3>
 <p>
   <ul>
-    <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, a server hosting tool for Minecraft</li>
-    <li>Watching weekly episodes of <a href="https://anilist.co/anime/150672/Oshi-No-Ko/">Oshi no Ko</a></li>
-    <li>Waiting for <a href="https://anilist.co/manga/118586/Frieren-Beyond-Journeys-End/">Frieren</a> to go off hiatus :(</li>
+    <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, a server hosting tool for Minecraft ⛏️</li>
+    <li>Watching weekly episodes of <a href="https://anilist.co/anime/150672/Oshi-No-Ko/">Oshi no Ko</a> ✨</li>
+    <li>Waiting for <a href="https://anilist.co/manga/118586/Frieren-Beyond-Journeys-End/">Frieren</a> to go off hiatus 😔</li>
     <li><a href="https://www.youtube.com/watch?v=J2YRzOwIgio">Random other projects...</a></li>
   </ul>
 </p>
