@@ -4,8 +4,7 @@
 
 <p>
   <ul>
-    <li>I'm a Computer Engineering student at the <a href="https://www.reddit.com/r/uwaterloo/">University of Waterloo</a> 🦆</li>
-    <li>I am interested in image processing, machine learning, and data visualization 🤓</li>
+    <li>I'm a Computer Engineering student at the <a href="https://www.reddit.com/r/uwaterloo/">Waterloo</a> 🦆</li>
     <li>I am a Data Engineering Intern at the <a href="https://www.theglobeandmail.com/">Globe and Mail</a> 📰</li>
     <li>I was previously a Software Developer Intern at <a href="https://ford.com/">Ford</a> 🚗</li>
   </ul>
@@ -15,7 +14,7 @@
 <p>
   <ul>
     <li>My <a href="https://monkeytype.com/profile/Jopee">personal best WPM</a> is 180</li>
-    <li>I've read over <a href="https://anilist.co/user/Jopee/">14000 chapters</a> of manga</li>
+    <li>I've read over <a href="https://anilist.co/user/Jopee/">15000 chapters</a> of manga</li>
     <li>I made a <a href="https://www.youtube.com/watch?v=IeQGV67qcRM">YouTube video</a> with 200k views</li>
   </ul>
 </p>
@@ -32,5 +31,6 @@
 
 <details>
   <summary>Image credits</summary>
-  <a href="https://twitter.com/kerorira1">kerorira1</a> on Twitter
+  Profile pic by <a href="https://twitter.com/you_sakura_ys">桜倉ゆうすけ</a></br>
+  Image by <a href="https://twitter.com/kerorira1">kerorira1</a>
 </details>
