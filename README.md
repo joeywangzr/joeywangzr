@@ -23,10 +23,8 @@
 <p>
   <ul>
     <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, a server hosting tool for Minecraft ⛏️</li>
-    <li>Watching weekly episodes of <a href="https://anilist.co/anime/150672/Oshi-No-Ko/">Oshi no Ko</a> ✨</li>
     <li>Waiting for <a href="https://anilist.co/manga/118586/Frieren-Beyond-Journeys-End/">Frieren</a> to go off hiatus 😔</li>
     <li>Writing <a href="https://goo.gl/maps/S65uHvYLmVSThoc86">restaurant reviews</a></li>
-    <li>Making <a href="https://www.youtube.com/watch?v=J2YRzOwIgio">Anime openings</a></li>
   </ul>
 </p>
 
