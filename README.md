@@ -5,8 +5,8 @@
 <p>
   <ul>
     <li>I'm a Computer Engineering student at the <a href="https://www.reddit.com/r/uwaterloo/">Waterloo</a> 🦆</li>
-    <li>I am a Data Engineering Intern at the <a href="https://www.theglobeandmail.com/">Globe and Mail</a> 📰</li>
-    <li>I was previously a Software Developer Intern at <a href="https://ford.com/">Ford</a> 🚗</li>
+    <li>I was previously a Data Engineering Intern at the <a href="https://www.theglobeandmail.com/">Globe and Mail</a> 📰</li>
+    <li>I've also worked as a Software Developer Intern at <a href="https://ford.com/">Ford</a> 🚗</li>
   </ul>
 </p>
 
