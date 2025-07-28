@@ -23,6 +23,7 @@
 <h3>I'm currently working on:</h3>
 <p>
   <ul>
+    <li><a href="https://www.planckapp.com/">Planck</a>, a cross platform clipboard 📋</li>
     <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, a server hosting tool for Minecraft ⛏️</li>
     <li>Reading <a href="https://anilist.co/manga/118586/Frieren-Beyond-Journeys-End/">Sousou no Frieren</a> 😃</li>
     <li>Writing <a href="https://goo.gl/maps/S65uHvYLmVSThoc86">restaurant reviews</a> 🍜</li>
