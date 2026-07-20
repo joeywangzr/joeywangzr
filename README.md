@@ -1,16 +1,5 @@
 <h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>!</h2>
 
-<p>
-  <ul>
-    <li>I'm a Computer Engineering student at the <a href="https://www.reddit.com/r/uwaterloo/">Waterloo</a> 🦆</li>
-    <li>I am currently a Software Engineering Intern at <a href="https://www.patreon.com/">Patreon</a> 🎥</li>
-    <li>I was previously a Software Engineering Intern at <a href="https://x.com/">𝕏 (Twitter)</a> 💬</li>
-    <li>I was previously a Software Engineering Intern at <a href="https://1password.com/">1Password</a> 🔒</li>
-    <li>I was previously a Software Engineering Intern at <a href="https://www.theglobeandmail.com/">The Globe and Mail</a> 📰</li>
-    <li>I've also worked as a Software Engineering Intern at <a href="https://ford.com/">Ford</a> 🚗</li>
-  </ul>
-</p>
-
 <h3>I'm currently working on:</h3>
 <p>
   <ul>
