@@ -1,7 +1,7 @@
 <h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>!</h2>
 
 <h3>I'm a Software Engineer at <a href="https://www.warp.dev/">Warp</a></h3>
-<h3>Previously I've worked at <a href="https://www.patreon.com/">Patreon</a>, <a href="https://x.ai/">xAI</a>, and <a href="https://1password.com/">1Password</a></h3>
+<p>I used to intern at <a href="https://www.patreon.com/">Patreon</a>, <a href="https://x.ai/">xAI</a>, and <a href="https://1password.com/">1Password</a>.</p>
 
 <h3>I'm currently working on:</h3>
 <p>
